@@ -1,0 +1,402 @@
+{
+  "usuarios": [
+    {
+      "id": "12b518f4",
+      "nombre": "Jerónimo Contreras",
+      "cargo": "Gerente De Desarrollo",
+      "email": "jeronimo.contreras@orkestia.com",
+      "avatar_path": "/Users/danielsuarez/Documents/Maestría IA U. LA SALLE/SEMESTRE I/PHYTON I/task_manager/data/avatars/eaa00245.jpg",
+      "fecha_registro": "2026-03-24T21:55:43.982207"
+    },
+    {
+      "id": "a2b43e3d",
+      "nombre": "Ana Maria Vasquez",
+      "cargo": "Desarrolladora Front End",
+      "email": "maria.vasquez@orkestia.com",
+      "avatar_path": "/Users/danielsuarez/Documents/Maestría IA U. LA SALLE/SEMESTRE I/PHYTON I/task_manager/data/avatars/3386f639.jpg",
+      "fecha_registro": "2026-03-29T17:41:53.872079"
+    },
+    {
+      "id": "36d84a72",
+      "nombre": "Laura Gomez",
+      "cargo": "Product Owner",
+      "email": "laura.gomez@orkestia.com",
+      "avatar_path": "/Users/danielsuarez/Documents/Maestría IA U. LA SALLE/SEMESTRE I/PHYTON I/task_manager/data/avatars/7aae3d62.jpg",
+      "fecha_registro": "2026-03-29T18:00:26.676052"
+    },
+    {
+      "id": "b1509abc",
+      "nombre": "Felipe Torres",
+      "cargo": "Qa Tester",
+      "email": "felipe.torres@orkestia.com",
+      "avatar_path": "",
+      "fecha_registro": "2026-03-29T18:01:10.506573"
+    },
+    {
+      "id": "0f95645b",
+      "nombre": "Daniel Suarez",
+      "cargo": "Full Stack Developer",
+      "email": "daniel.suarezpo@gmail.com",
+      "avatar_path": "/Users/danielsuarez/Documents/Maestría IA U. LA SALLE/SEMESTRE I/PHYTON I/task_manager/data/avatars/6e0f0745.jpg",
+      "fecha_registro": "2026-03-29T18:23:52.266246"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "979003d1",
+      "titulo": "Presentación De Video De Proyecto Python",
+      "descripcion": "Sustentación del Código",
+      "fecha_creacion": "2026-03-29T18:26:11.547913",
+      "fecha_limite": "2026-03-29",
+      "estado": "Completada",
+      "prioridad": "Crítica",
+      "responsable_id": "0f95645b",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:26:11",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:27:42",
+          "cambio": "Estado: Pendiente → En Progreso"
+        },
+        {
+          "fecha": "2026-03-29 18:27:43",
+          "cambio": "Estado: En Progreso → Completada"
+        }
+      ]
+    },
+    {
+      "id": "7031c6a5",
+      "titulo": "Definición De Requerimientos Funcionales",
+      "descripcion": "Levantar y documentar las funcionalidades clave del sistema (creación de tickets, asignación, estados, integración IA).",
+      "fecha_creacion": "2026-03-29T18:02:47.650109",
+      "fecha_limite": "2026-04-05",
+      "estado": "Completada",
+      "prioridad": "Media",
+      "responsable_id": "36d84a72",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:02:47",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:08:13",
+          "cambio": "Estado: Pendiente → En Progreso"
+        },
+        {
+          "fecha": "2026-03-29 18:08:15",
+          "cambio": "Estado: En Progreso → Completada"
+        },
+        {
+          "fecha": "2026-03-29 18:09:24",
+          "cambio": "titulo: Definición De Requerimientos Funcionales → Definición De Requerimientos Funcionales"
+        },
+        {
+          "fecha": "2026-03-29 18:09:24",
+          "cambio": "descripcion: Levantar y documentar las funcionalidades clave del sistema (creación de tickets, asignación, estados, integración IA). → Levantar y documentar las funcionalidades clave del sistema (creación de tickets, asignación, estados, integración IA)."
+        },
+        {
+          "fecha": "2026-03-29 18:09:24",
+          "cambio": "fecha_limite: 2026-04-05 → 2026-04-05"
+        },
+        {
+          "fecha": "2026-03-29 18:09:24",
+          "cambio": "responsable_id: 36d84a72 → 36d84a72"
+        },
+        {
+          "fecha": "2026-03-29 18:09:24",
+          "cambio": "prioridad: Media → Media"
+        },
+        {
+          "fecha": "2026-03-29 18:09:24",
+          "cambio": "Estado: Completada → En Progreso"
+        },
+        {
+          "fecha": "2026-03-29 18:24:14",
+          "cambio": "Estado: En Progreso → Completada"
+        },
+        {
+          "fecha": "2026-03-29 18:24:47",
+          "cambio": "titulo: Definición De Requerimientos Funcionales → Definición De Requerimientos Funcionales"
+        },
+        {
+          "fecha": "2026-03-29 18:24:47",
+          "cambio": "descripcion: Levantar y documentar las funcionalidades clave del sistema (creación de tickets, asignación, estados, integración IA). → Levantar y documentar las funcionalidades clave del sistema (creación de tickets, asignación, estados, integración IA)."
+        },
+        {
+          "fecha": "2026-03-29 18:24:47",
+          "cambio": "fecha_limite: 2026-04-05 → 2026-04-05"
+        },
+        {
+          "fecha": "2026-03-29 18:24:47",
+          "cambio": "responsable_id: 36d84a72 → 36d84a72"
+        },
+        {
+          "fecha": "2026-03-29 18:24:47",
+          "cambio": "prioridad: Media → Media"
+        },
+        {
+          "fecha": "2026-03-29 18:24:47",
+          "cambio": "Estado: Completada → En Progreso"
+        },
+        {
+          "fecha": "2026-03-29 18:27:45",
+          "cambio": "Estado: En Progreso → Completada"
+        }
+      ]
+    },
+    {
+      "id": "4fff9a91",
+      "titulo": "Priorización Del Backlog",
+      "descripcion": "Organizar y priorizar las tareas del proyecto en función del valor de negocio y complejidad técnica.",
+      "fecha_creacion": "2026-03-29T18:03:18.128340",
+      "fecha_limite": "2026-04-07",
+      "estado": "Completada",
+      "prioridad": "Media",
+      "responsable_id": "36d84a72",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:03:18",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:08:18",
+          "cambio": "Estado: Pendiente → En Progreso"
+        },
+        {
+          "fecha": "2026-03-29 18:27:46",
+          "cambio": "Estado: En Progreso → Completada"
+        }
+      ]
+    },
+    {
+      "id": "288471c4",
+      "titulo": "Configuración De Entorno Ci/Cd",
+      "descripcion": "Implementar pipeline de integración y despliegue continuo.",
+      "fecha_creacion": "2026-03-29T18:08:04.610689",
+      "fecha_limite": "2026-04-09",
+      "estado": "Pendiente",
+      "prioridad": "Alta",
+      "responsable_id": "b1509abc",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:08:04",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:08:20",
+          "cambio": "Estado: Pendiente → En Progreso"
+        },
+        {
+          "fecha": "2026-03-29 18:08:45",
+          "cambio": "titulo: Configuración De Entorno Ci/Cd → Configuración De Entorno Ci/Cd"
+        },
+        {
+          "fecha": "2026-03-29 18:08:45",
+          "cambio": "descripcion: Implementar pipeline de integración y despliegue continuo. → Implementar pipeline de integración y despliegue continuo."
+        },
+        {
+          "fecha": "2026-03-29 18:08:45",
+          "cambio": "fecha_limite: 2026-04-09 → 2026-04-09"
+        },
+        {
+          "fecha": "2026-03-29 18:08:45",
+          "cambio": "responsable_id: b1509abc → b1509abc"
+        },
+        {
+          "fecha": "2026-03-29 18:08:45",
+          "cambio": "prioridad: Alta → Alta"
+        },
+        {
+          "fecha": "2026-03-29 18:08:45",
+          "cambio": "Estado: En Progreso → Pendiente"
+        }
+      ]
+    },
+    {
+      "id": "e4a50d65",
+      "titulo": "Diseño Ui De Dashboard",
+      "descripcion": "Crear la interfaz principal para visualizar y gestionar tickets.",
+      "fecha_creacion": "2026-03-29T18:05:40.187135",
+      "fecha_limite": "2026-04-10",
+      "estado": "En Progreso",
+      "prioridad": "Media",
+      "responsable_id": "a2b43e3d",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:05:40",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:08:21",
+          "cambio": "Estado: Pendiente → En Progreso"
+        }
+      ]
+    },
+    {
+      "id": "42bce08c",
+      "titulo": "Diseño De Casos De Prueba",
+      "descripcion": "Crear casos de prueba funcionales para validar el flujo completo de tickets.",
+      "fecha_creacion": "2026-03-29T18:07:21.389485",
+      "fecha_limite": "2026-04-11",
+      "estado": "Pendiente",
+      "prioridad": "Baja",
+      "responsable_id": "b1509abc",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:07:21",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:08:22",
+          "cambio": "Estado: Pendiente → En Progreso"
+        },
+        {
+          "fecha": "2026-03-29 18:08:34",
+          "cambio": "titulo: Diseño De Casos De Prueba → Diseño De Casos De Prueba"
+        },
+        {
+          "fecha": "2026-03-29 18:08:34",
+          "cambio": "descripcion: Crear casos de prueba funcionales para validar el flujo completo de tickets. → Crear casos de prueba funcionales para validar el flujo completo de tickets."
+        },
+        {
+          "fecha": "2026-03-29 18:08:34",
+          "cambio": "fecha_limite: 2026-04-11 → 2026-04-11"
+        },
+        {
+          "fecha": "2026-03-29 18:08:34",
+          "cambio": "responsable_id: b1509abc → b1509abc"
+        },
+        {
+          "fecha": "2026-03-29 18:08:34",
+          "cambio": "prioridad: Baja → Baja"
+        },
+        {
+          "fecha": "2026-03-29 18:08:34",
+          "cambio": "Estado: En Progreso → Pendiente"
+        }
+      ]
+    },
+    {
+      "id": "9e2118ee",
+      "titulo": "Desarrollo Api De Tickets",
+      "descripcion": "Crear endpoints REST para la gestión de tickets (CRUD, estados, asignaciones).",
+      "fecha_creacion": "2026-03-29T18:04:48.152976",
+      "fecha_limite": "2026-04-12",
+      "estado": "Pendiente",
+      "prioridad": "Crítica",
+      "responsable_id": "12b518f4",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:04:48",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:06:28",
+          "cambio": "titulo: Desarrollo Api De Tickets → Desarrollo Api De Tickets"
+        },
+        {
+          "fecha": "2026-03-29 18:06:28",
+          "cambio": "descripcion: Crear endpoints REST para la gestión de tickets (CRUD, estados, asignaciones). → Crear endpoints REST para la gestión de tickets (CRUD, estados, asignaciones)."
+        },
+        {
+          "fecha": "2026-03-29 18:06:28",
+          "cambio": "fecha_limite: 2026-04-12 → 2026-04-12"
+        },
+        {
+          "fecha": "2026-03-29 18:06:28",
+          "cambio": "responsable_id: 12b518f4 → 12b518f4"
+        },
+        {
+          "fecha": "2026-03-29 18:06:28",
+          "cambio": "prioridad: Media → Alta"
+        },
+        {
+          "fecha": "2026-03-29 18:06:28",
+          "cambio": "Estado: Pendiente → Pendiente"
+        },
+        {
+          "fecha": "2026-03-29 18:06:40",
+          "cambio": "titulo: Desarrollo Api De Tickets → Desarrollo Api De Tickets"
+        },
+        {
+          "fecha": "2026-03-29 18:06:40",
+          "cambio": "descripcion: Crear endpoints REST para la gestión de tickets (CRUD, estados, asignaciones). → Crear endpoints REST para la gestión de tickets (CRUD, estados, asignaciones)."
+        },
+        {
+          "fecha": "2026-03-29 18:06:40",
+          "cambio": "fecha_limite: 2026-04-12 → 2026-04-12"
+        },
+        {
+          "fecha": "2026-03-29 18:06:40",
+          "cambio": "responsable_id: 12b518f4 → 12b518f4"
+        },
+        {
+          "fecha": "2026-03-29 18:06:40",
+          "cambio": "prioridad: Alta → Crítica"
+        },
+        {
+          "fecha": "2026-03-29 18:06:40",
+          "cambio": "Estado: Pendiente → Pendiente"
+        }
+      ]
+    },
+    {
+      "id": "7e4c72b4",
+      "titulo": "Implementación De Formularios",
+      "descripcion": "Desarrollar formularios para creación y edición de tickets.",
+      "fecha_creacion": "2026-03-29T18:06:13.211106",
+      "fecha_limite": "2026-04-13",
+      "estado": "Pendiente",
+      "prioridad": "Alta",
+      "responsable_id": "a2b43e3d",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:06:13",
+          "cambio": "Tarea creada"
+        }
+      ]
+    },
+    {
+      "id": "99d46a8b",
+      "titulo": "Integración Con Motor De Ia",
+      "descripcion": "Conectar la API con un servicio de IA para clasificación automática de tickets.",
+      "fecha_creacion": "2026-03-29T18:05:09.232260",
+      "fecha_limite": "2026-04-15",
+      "estado": "Pendiente",
+      "prioridad": "Baja",
+      "responsable_id": "12b518f4",
+      "historial": [
+        {
+          "fecha": "2026-03-29 18:05:09",
+          "cambio": "Tarea creada"
+        },
+        {
+          "fecha": "2026-03-29 18:06:51",
+          "cambio": "titulo: Integración Con Motor De Ia → Integración Con Motor De Ia"
+        },
+        {
+          "fecha": "2026-03-29 18:06:51",
+          "cambio": "descripcion: Conectar la API con un servicio de IA para clasificación automática de tickets. → Conectar la API con un servicio de IA para clasificación automática de tickets."
+        },
+        {
+          "fecha": "2026-03-29 18:06:51",
+          "cambio": "fecha_limite: 2026-04-15 → 2026-04-15"
+        },
+        {
+          "fecha": "2026-03-29 18:06:51",
+          "cambio": "responsable_id: 12b518f4 → 12b518f4"
+        },
+        {
+          "fecha": "2026-03-29 18:06:51",
+          "cambio": "prioridad: Media → Baja"
+        },
+        {
+          "fecha": "2026-03-29 18:06:51",
+          "cambio": "Estado: Pendiente → Pendiente"
+        }
+      ]
+    }
+  ]
+}
